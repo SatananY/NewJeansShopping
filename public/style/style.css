@@ -1,0 +1,49 @@
+body {
+  font-family: 'Albert Sans', sans-serif;
+  background-color: #ffffff;
+}
+.box{
+  background-color: #c30000;
+}
+
+h1 {
+  font-family: 'Mitr', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: medium;
+  color: #ffffff;
+}
+
+h2{
+  font-family: 'Mitr', sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: medium;
+  color: #ffffff;
+  
+}
+h5{
+  margin-top: 1rem;
+  font-family: 'Mitr', sans-serif;
+  color:#da0a0a;
+  line-height: 1.5;
+  font-weight: medium;
+  
+}
+
+h6{
+  margin-top: 1rem;
+  font-family: 'Mitr', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: medium;
+  
+}
+
+.from-group{
+  background-color: #fffbfa;
+}
+
+
+
+
